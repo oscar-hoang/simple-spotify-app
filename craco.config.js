@@ -1,4 +1,4 @@
-// craco.config.js
+/* eslint-disable global-require */
 module.exports = {
   style: {
     postcss: {
@@ -8,4 +8,4 @@ module.exports = {
       ],
     },
   },
-}
+};
